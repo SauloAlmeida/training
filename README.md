@@ -1,2 +1,2 @@
 # training
-A repo to store code from algorithm &amp; data structure challenges
+A repo to training tech stuffs
